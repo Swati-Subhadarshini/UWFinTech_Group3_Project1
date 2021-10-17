@@ -9,8 +9,8 @@ The list of the coins that the user can choose from is : Bitcoin (BTC), Ethereum
 We use Python 3.5+ and along with several relevant libraries. We used Pandas which is included in Anaconda. Please go to: https://docs.anaconda.com/anaconda/install/ - For finding the proper installation guide.
 The packages will be:
 * [questionary](https://github.com/tmbo/questionary) - For interactive user prompts and dialogs
-* [pandas] (https://github.com/pandas-dev/pandas)- For information and documentation
-* [Numpy] (https://github.com/AhmetFurkanDEMIR/Numpy)- For information on the library and insights
+* [pandas](https://github.com/pandas-dev/pandas)- For information and documentation
+* [Numpy](https://github.com/AhmetFurkanDEMIR/Numpy)- For information on the library and insights
 
 
 ---
