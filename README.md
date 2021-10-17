@@ -35,9 +35,9 @@ Then the program will ask you to choose two of them. In the next step, you will 
 ---
 
 ## Contributors
-- Somaye Nargesi
-- Swati Sobhadarshini
-- Jensen Eichenlaub
+- Somaye Nargesi  
+- Swati Sobhadarshini  
+- Jensen Eichenlaub  
 
 ---
 
