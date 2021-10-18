@@ -196,11 +196,12 @@ Image Snippets:
 This project is designed by - 
 
 - Swati Subhadarshini  
-Emaid id: sereneswati@gmail.com  
+Emaid : sereneswati@gmail.com  
 LinkedIn link: www.linkedin.com/in/swati-subhadarshini  
 
 - Somaye Nargesi  
-Email address:srn1358@gmail.com  
+Email : srn1358@gmail.com  
 
 - Jansen Eichenlaub  
+Email : JansenReichenlaub@gmail.com
 
