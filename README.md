@@ -187,20 +187,20 @@ NOTE: Need to import MCSimulation from MCForecastTools, which program is written
 
 Image Snippets:
 
-![Daily Returns][UWFinTech_Group3_Project1/Images/Daily_Return_Interactive_Plot.png]
-![Cumulative Returns][UWFinTech_Group3_Project1/Images/Cumulative_Return_Interactive_Plot.png]
-![Sharpe_Ratio][UWFinTech_Group3_Project1/Images/Sharpe_Ratio_Plot.png]
+![Daily Returns]["UWFinTech_Group3_Project1/Images/Daily_Return_Interactive_Plot.png"]
+![Cumulative Returns]["UWFinTech_Group3_Project1/Images/Cumulative_Return_Interactive_Plot.png"]
+![Sharpe_Ratio]["UWFinTech_Group3_Project1/Images/Sharpe_Ratio_Plot.png"]
 
 ## Contributors
 
 This project is designed by - 
 
-Swati Subhadarshini
-Emaid id: sereneswati@gmail.com
-LinkedIn link: www.linkedin.com/in/swati-subhadarshini
+- Swati Subhadarshini  
+- Emaid id: sereneswati@gmail.com  
+- LinkedIn link: www.linkedin.com/in/swati-subhadarshini  
 
-Somaye Nargesi
-Email address:srn1358@gmail.com
+- Somaye Nargesi  
+- Email address:srn1358@gmail.com  
 
-Jansen Eichenlaub
+- Jansen Eichenlaub  
 
