@@ -187,9 +187,9 @@ NOTE: Need to import MCSimulation from MCForecastTools, which program is written
 
 Image Snippets:
 
-![Daily Returns]["UWFinTech_Group3_Project1/Images/Daily_Return_Interactive_Plot.png"]
-![Cumulative Returns]["UWFinTech_Group3_Project1/Images/Cumulative_Return_Interactive_Plot.png"]
-![Sharpe_Ratio]["UWFinTech_Group3_Project1/Images/Sharpe_Ratio_Plot.png"]
+![Daily Returns](/UWFinTech_Group3_Project1/Images/Daily_Return_Interactive_Plot.png "Daily Returns")  
+![Cumulative Returns](/UWFinTech_Group3_Project1/Images/Cumulative_Return_Interactive_Plot.png "Cumulative Returns")  
+![Sharpe_Ratio](/UWFinTech_Group3_Project1/Images/Sharpe_Ratio_Plot.png "Sharpe Ratios")
 
 ## Contributors
 
